@@ -7,3 +7,5 @@ Hello everybody!
 ## Add your name below
 
 - Igor Costa
+- David Bastow
+
